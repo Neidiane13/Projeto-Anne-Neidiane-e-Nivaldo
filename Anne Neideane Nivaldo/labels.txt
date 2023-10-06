@@ -1,0 +1,5 @@
+0 Brinco
+1 Garrafa
+2 Relógio
+3 Pena
+4 Pasta
